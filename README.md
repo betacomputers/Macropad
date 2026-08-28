@@ -16,7 +16,7 @@ PCB is mounted to the bottom of the case with 4 M3 bolts and 5x4mm heat inserts.
 
 ## PCB
 Made in KiCad.
-My first attempt at making a PCB, no idea how it'll turn out.
+My first attempt at making a PCB, no idea how it'll turn out. All DRC errors appear to be related to KiCads default clearance settings for the LEDs being too large.
 Footprint:
 
 <img width="460" height="576" alt="Screenshot 2026-08-28 at 12 23 03 PM" src="https://github.com/user-attachments/assets/ed177bc7-d85e-49bb-9e7e-92d057479087" />
