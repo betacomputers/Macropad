@@ -1947,7 +1947,7 @@
 		(at 217.17 81.28)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "659d3df5-0182-4e9a-8c86-770158c75d9d")
+		(uuid "68ae4797-c906-4ac3-b9de-afcb7b25bcd5")
 	)
 	(junction
 		(at 181.61 88.9)
@@ -2097,6 +2097,16 @@
 	)
 	(wire
 		(pts
+			(xy 217.17 81.28) (xy 226.06 81.28)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4c852788-375b-473b-88c8-04427c2e1115")
+	)
+	(wire
+		(pts
 			(xy 170.18 101.6) (xy 186.69 101.6)
 		)
 		(stroke
@@ -2104,16 +2114,6 @@
 			(type default)
 		)
 		(uuid "5013fecc-04b9-454d-aa16-5e160e96eb2f")
-	)
-	(wire
-		(pts
-			(xy 217.17 81.28) (xy 226.06 81.28)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "502692ed-43d9-4821-b198-785913a2d7e0")
 	)
 	(wire
 		(pts
@@ -2963,7 +2963,7 @@
 				)
 			)
 		)
-		(property "Footprint" "footprints.pretty:SK6812MINI-E_fixed"
+		(property "Footprint" "LED_SMD:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount"
 			(at 182.88 146.05 0)
 			(hide yes)
 			(show_name no)
@@ -3130,7 +3130,7 @@
 				)
 			)
 		)
-		(property "Footprint" "footprints.pretty:SK6812MINI-E_fixed"
+		(property "Footprint" "LED_SMD:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount"
 			(at 236.22 146.05 0)
 			(hide yes)
 			(show_name no)
@@ -3529,7 +3529,7 @@
 	)
 	(symbol
 		(lib_id "Diode:1N914")
-		(at 217.17 77.47 90)
+		(at 217.17 77.47 270)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -3547,7 +3547,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
 		(property "Value" "1N914"
@@ -3558,11 +3558,11 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
 		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
-			(at 221.615 77.47 0)
+			(at 212.725 77.47 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3663,7 +3663,7 @@
 				)
 			)
 		)
-		(property "Footprint" "footprints.pretty:SK6812MINI-E_fixed"
+		(property "Footprint" "LED_SMD:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount"
 			(at 209.55 146.05 0)
 			(hide yes)
 			(show_name no)
@@ -5411,7 +5411,7 @@
 				)
 			)
 		)
-		(property "Footprint" "footprints.pretty:SK6812MINI-E_fixed"
+		(property "Footprint" "LED_SMD:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount"
 			(at 156.21 146.05 0)
 			(hide yes)
 			(show_name no)
