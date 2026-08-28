@@ -12,19 +12,27 @@ My first time working on a hardware electronics project. Still learning PCB desi
 Made in Fusion360.
 PCB is mounted to the bottom of the case with 4 M3 bolts and 5x4mm heat inserts. Top and bottom of the case are connected with snap fit joints.
 
-<img width="678" height="568" alt="Screenshot 2026-08-28 at 1 52 06 PM" src="https://github.com/user-attachments/assets/38259471-5081-4a73-9b9b-eb3f76d1cd04" />
+<img width="686" height="609" alt="Screenshot 2026-08-28 at 5 32 21 PM" src="https://github.com/user-attachments/assets/6c976e0c-f44c-4305-a910-71d9d2827a73" />
+
 
 ## PCB
 Made in KiCad.
 My first attempt at making a PCB, no idea how it'll turn out. All DRC errors appear to be related to KiCads default clearance settings for the LEDs being too large.
+
+Schematic:
+
+<img width="897" height="666" alt="Screenshot 2026-08-28 at 5 32 55 PM" src="https://github.com/user-attachments/assets/bd05ed72-72e5-405e-acc4-9323e77c3815" />
+
+
 Footprint:
 
-<img width="460" height="576" alt="Screenshot 2026-08-28 at 12 23 03 PM" src="https://github.com/user-attachments/assets/ed177bc7-d85e-49bb-9e7e-92d057479087" />
+<img width="490" height="618" alt="Screenshot 2026-08-28 at 5 33 23 PM" src="https://github.com/user-attachments/assets/8e7a5c82-787c-4d42-831c-0b4f3656996a" />
+
 
 3D View (top, bottom):
 
-<img width="316" height="411" alt="Screenshot 2026-08-28 at 12 22 28 PM" src="https://github.com/user-attachments/assets/5016e0c7-bfa6-4d41-b1d2-8cafa7f815bb" />
-<img width="315" height="393" alt="Screenshot 2026-08-28 at 12 22 49 PM" src="https://github.com/user-attachments/assets/65c7f71e-1b77-4680-a325-8aba20a7f85f" />
+<img width="439" height="531" alt="Screenshot 2026-08-28 at 5 33 41 PM" src="https://github.com/user-attachments/assets/e36120aa-b73d-49bc-9665-bca14660b4f9" />
+<img width="419" height="521" alt="Screenshot 2026-08-28 at 5 34 07 PM" src="https://github.com/user-attachments/assets/d5919173-9679-4662-af55-bec68be2baec" />
 
 
 ## BOM
