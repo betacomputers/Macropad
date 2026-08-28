@@ -1,0 +1,8 @@
+CUSTOM_MATRIX = lite
+SRC += matrix.c
+
+ENCODER_ENABLE = yes
+ENCODER_MAP_ENABLE = yes
+
+RGBLIGHT_ENABLE = yes
+WS2812_DRIVER = vendor
